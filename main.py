@@ -1,11 +1,2 @@
-# add two number
-
-a = int(input("enter first number: "))
-b = int(input("enter second number: "))
-
-sum = a + b
-
-print("sum", sum)
-
-
-
+# try to add integer with string and see output
+s = 'year is ' y = 2022 print (s + y)
