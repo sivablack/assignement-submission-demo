@@ -1,6 +1,11 @@
-# print varible and strings in one line by using f string
+# add two number
 
-bags = 4
-apples_in_bag = 3
+a = int(input("enter first number: "))
+b = int(input("enter second number: "))
 
-print(f' there are total of {bags * apples_in_bag} apples')
+sum = a + b
+
+print("sum", sum)
+
+
+
